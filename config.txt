@@ -1,4 +1,4 @@
-﻿token=NTA4NDgxNTkyMzIzMzQyMzUx.Dr_5xg.d0Wm94cxUthVVsZC5gaJC8k-5tc
+token=NTA4NDgxNTkyMzIzMzQyMzUx.Dr_5xg.d0Wm94cxUthVVsZC5gaJC8k-5tc
 owner=408396389291393025
 prefix= !p
 game= !phelp
